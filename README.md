@@ -11,7 +11,16 @@ TODO
 ## Before the workshop
 
 To get the most out of the workshop, we ask that you install git and create an
-account on GitHub before starting :)
+account on GitHub before starting.
+
+### Creating a GitHub account
+
+1. Open github.com
+2. On the top-right of the screen, choose "Sign Up".
+3. Create an account with your email address and any username.
+4. Once you're account has been created, go to
+   github.com/oscarbailey/git-workshop
+5. Click the "Fork" button on the top right of the page.
 
 ### Installing Git
 
@@ -52,17 +61,7 @@ git version 2.24.0
 
 TODO
 
-### Creating a GitHub account
-
-1. Open github.com
-2. On the top-right of the screen, choose "Sign Up".
-3. Create an account with your email address and any username.
-4. Once you're account has been created, go to
-   github.com/oscarbailey/git-workshop
-5. Click the "Fork" button on the top right of the page.
-
 ## Index of files:
---------------
 
 - cheatsheet/
 
